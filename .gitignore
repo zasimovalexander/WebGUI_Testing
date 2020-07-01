@@ -1,0 +1,9 @@
+.idea/
+.pytest_cache/
+__pycache__/
+add/Notes.txt
+Pages/__pycache__
+Tests/__pycache__
+Reports/
+geckodriver.log
+tmp.py
