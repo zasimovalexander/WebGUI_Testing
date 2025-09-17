@@ -12,3 +12,5 @@ Cross browser testing of website UI with +/- cookie modes
 * Selenium
 * Latest and compliant to their browsers versions of Webdrivers: chromedriver, geckodriver
 * PATH must include locations of used Webdrivers or add them explicit in "USE.py" when prepares "tmp.py"
+## Note  
+This repository collects experiments, drafts, and different approaches with various tools from the testing stack — more like a playground to explore.
